@@ -1,6 +1,7 @@
 from tests.base import TodoTest
 from datetime import datetime, timedelta
 
+
 TODO_1 = {
             "id": 1,
             "title": "Watch CSSE6400 Lecture",
